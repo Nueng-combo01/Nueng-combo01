@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @Bannason Thongaon
+- 👋 Hi, I'm @Nueng-combo01
 - 👀 I'm interested in programming language for full stage developer. 
-- 🌱 I'm currently learning programming (Back end and Data base).
+- 🌱 I'm currently learning now programming (Back-end and Data-base).
 - 💞️ I'm looking to collaborate on all of you.
 - 📫 How to reach me facebook "Bannason Thongaon"
 
